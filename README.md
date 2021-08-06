@@ -1,4 +1,4 @@
-#Keyboard Logging
+# Keyboard Logging
 
 At Linux, nearly every process is controllable and parsable. Today I use that knowledge to write a keyboard logger.
 
@@ -38,7 +38,7 @@ After a lot of tests I notice that structure:
 
 
 [========]
-##Analyzing the Event Output
+## Analyzing the Event Output
 
 Raw hexdump output:
 
@@ -90,7 +90,7 @@ Key Map : [Click me](https://github.com/torvalds/linux/blob/8096acd7442e613fad03
 
 
 [========]
-##The KEyboard Logger Script
+## The Keyboard Logger Script
 Here is my python script
 
 
