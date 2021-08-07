@@ -73,7 +73,7 @@ I've found that structure;
 
 ```
  2288 60f0 0000 0000 d7e5 0000 0000 0000 0004 0004 001e 0000
- ========                       ========                         ==== ==== ========
+ =========           =========           ==== ==== =========
 ```
 
 > 1st part is Unix timestamp with hex  
@@ -89,7 +89,6 @@ Event codes meaning : [Click me](https://www.kernel.org/doc/Documentation/input/
 Key Map : [Click me](https://github.com/torvalds/linux/blob/8096acd7442e613fad0354fc8dfdb2003cceea0b/include/uapi/linux/input-event-codes.h#L75-L338 "Click me")  
 
 
-[========]
 ## The Keyboard Logger Script  
 Here is my python script  
 
